@@ -1,0 +1,9 @@
+influxdb_url = "127.0.0.1:8086"
+org = "your-org"
+token = "YOUR-TOKEN-HERE"
+timeout = 6000
+verify_ssl = True
+bucket = "mqtt"
+mqtt_host = "127.0.0.1"
+mqtt_port = 1883
+subscribe_topic = "#"
